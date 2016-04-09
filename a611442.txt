@@ -1,0 +1,6 @@
+String passarDeano=false;
+if(passarDeano==false){
+	System.out.print("Você não passou !");
+}else{
+	System.out.print("Você passou !");
+}
